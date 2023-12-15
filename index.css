@@ -1,3 +1,8 @@
 body{
     background-color: #6441a5;
 }
+
+.email{
+    color: grey;
+    height: 30px;
+}
